@@ -1,3 +1,5 @@
+/* herp derp */
+
 function Hand(){
 	var hand =[];
 	this.getHand = function(){
