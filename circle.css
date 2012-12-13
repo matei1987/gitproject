@@ -29,7 +29,15 @@ ul div{
 	transition: 500ms ease-in-out;
 }
 
-.circle:hover{
+.circle2
+{
+	height: 50px;
+	width: 100px;
+	background-color: #3366f4;
+	visibility: hidden;
+}
+
+/*.circle:hover{
 	height: 50px;
 	width: 400px;
 	box-shadow:inset 2px 1px 4px #111111;
@@ -49,7 +57,7 @@ ul div{
 a, a:visited, a:hover, a:active {
 	text-decoration: none;
 	color:#000;
-}
+}*/
 
 #content{
 	margin:0px auto;
@@ -85,13 +93,13 @@ img{
 
 }
 
-img:hover{
+/*img:hover{
 
 	-webkit-transform:scale(1.25);
 
 	opacity: 1.0;
 	z-index: 500;
-}
+}*/
 
 .pics{
 	margin-right:100px;
